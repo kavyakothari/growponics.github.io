@@ -1,4 +1,4 @@
-# Growponics Clothing
+# Growponics
 Full Stack E-Commerce App built with React, using Firebase and Stripe API, deployed with Visual Studio 
 To view the app, visit: Work in Progress:- [https://growponics-52b82.web.app/](https://growponics-52b82.web.app/)
 
