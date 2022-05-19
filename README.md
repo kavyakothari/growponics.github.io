@@ -84,13 +84,14 @@ Follow these simple steps to run the project locally:
 🥳Viola! Project starts running at `localhost:3000`
 
 ## Screenshots
-![Landing page](https://user-images.githubusercontent.com/60403638/83971127-2aff8a00-a8f7-11ea-8cc6-f5205cc4d25b.jpg)
+![Landing page](https://firebasestorage.googleapis.com/v0/b/growponics-52b82.appspot.com/o/App%20flow%20Screnshots%2FProductsPage.png?alt=media&token=b2cc51e1-b500-4c11-99b4-504875d971a4)
 
-![SignIn Page](https://user-images.githubusercontent.com/60403638/83971151-5aae9200-a8f7-11ea-91da-c364f9c73a5f.jpg)
+![SignIn Page](https://firebasestorage.googleapis.com/v0/b/growponics-52b82.appspot.com/o/App%20flow%20Screnshots%2FSignInPage.png?alt=media&token=dbd80ee8-4e2f-4517-b7bc-857d2253bd7a)
 
-![Checkout page](https://user-images.githubusercontent.com/60403638/83971158-69954480-a8f7-11ea-9d5e-ec90cab6736b.jpg)
+![Checkout page](https://console.firebase.google.com/project/growponics-52b82/storage/growponics-52b82.appspot.com/files/~2FApp%20flow%20Screnshots)
 
 
+![Payment page](https://firebasestorage.googleapis.com/v0/b/growponics-52b82.appspot.com/o/App%20flow%20Screnshots%2FPaymentPage.png?alt=media&token=6a3e5077-a982-4cd9-af1e-8b304b774e8e))
 ## Work In Progress
 The app is being  updated weekly, as more work needs to be done
 Current functionality includes:
