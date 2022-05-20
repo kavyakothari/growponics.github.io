@@ -1,3 +1,5 @@
+// Product page data images from firebase
+
 const SHOP_DATA = {
   hats: {
     id: 1,
