@@ -1,3 +1,5 @@
+
+// imported Stripe API using publishable key saved in .env file
 import React from 'react';
 import StripeCheckout from 'react-stripe-checkout';
 
