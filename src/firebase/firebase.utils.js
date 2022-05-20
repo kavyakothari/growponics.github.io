@@ -1,4 +1,4 @@
-
+// importing all firebase components and API configuration from Firebase project settings
 
 import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
