@@ -1,3 +1,5 @@
+// The main JavaScript file where the routes are created for the application
+
 import React from 'react';
 
 import { Switch,Route,Redirect } from 'react-router-dom';
