@@ -1,3 +1,5 @@
+// file retreving all images from firebase
+
 const INITIAL_STATE = {
   sections: [
     {
