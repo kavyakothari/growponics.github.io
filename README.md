@@ -2,6 +2,8 @@
 Full Stack E-Commerce App built with React, using Firebase and Stripe API, deployed with Visual Studio 
 To view the app, visit:  [https://growponics-github-io.vercel.app/](https://growponics-github-io.vercel.app/)
 
+For now, new registered user data is saving in Firebase but the sign in button is not re-directing to the products page. Work is in progress for the same.
+
 ## Table of Contents
 
 * [Built With](#built-with)
